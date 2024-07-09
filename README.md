@@ -1,8 +1,8 @@
-# Arduino Obstacle Detection and Steering Control
+# 🚗 Arduino Obstacle Detection and Steering Control
 
-This project uses an Arduino, an HC-SR04 ultrasonic sensor, and a motor to create a vehicle that can detect obstacles and steer accordingly.
+This project utilizes an Arduino, an HC-SR04 ultrasonic sensor, and a motor to create a vehicle capable of detecting obstacles and steering to avoid them.
 
-## Components
+## 📦 Components
 
 - Arduino Uno (or compatible board)
 - HC-SR04 Ultrasonic Sensor
@@ -11,7 +11,7 @@ This project uses an Arduino, an HC-SR04 ultrasonic sensor, and a motor to creat
 - Jumper Wires
 - Breadboard (optional)
 
-## Wiring
+## 🔧 Wiring
 
 ### HC-SR04 Ultrasonic Sensor:
 - VCC to 5V
@@ -23,7 +23,7 @@ This project uses an Arduino, an HC-SR04 ultrasonic sensor, and a motor to creat
 - Control signal to pin 3 (PWM pin)
 - Connect the motor to a motor driver if necessary, depending on your motor specifications.
 
-## Code
+## 📝 Code
 
 Upload the following code to your Arduino:
 
